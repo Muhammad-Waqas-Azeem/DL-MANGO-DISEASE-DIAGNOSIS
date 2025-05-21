@@ -1,0 +1,7 @@
+u2net.py/
+u2net.pth/
+train_dataset/
+val_dataset
+venv/
+__pycache__/
+*.pyc
